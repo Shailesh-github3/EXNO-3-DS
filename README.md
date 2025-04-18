@@ -32,6 +32,30 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+**FEATURE ENCODING**
+![image](https://github.com/user-attachments/assets/10dbdc3a-c78c-4477-b361-b1790c743454)
+![image](https://github.com/user-attachments/assets/bb6cd367-689f-479d-890d-ad9bc3e2063c)
+![image](https://github.com/user-attachments/assets/8e907f92-b95c-4409-a2ac-b9b2b694d184)
+![image](https://github.com/user-attachments/assets/aa495997-1117-4b00-b197-0a5a32a9f553)
+![image](https://github.com/user-attachments/assets/ea4b4520-3504-46a5-8a6e-a927d54e08f5)
+![image](https://github.com/user-attachments/assets/5334bebf-6954-4dfa-9136-9e8ff778637d)
+![image](https://github.com/user-attachments/assets/e17c8bdb-f092-475b-bad7-b59b2964a58a)
+![image](https://github.com/user-attachments/assets/00e936b7-cc67-44d1-b3e7-bf4e1c1b3ca6)
+
+**FEATURE TRANSFORMATION**
+![image](https://github.com/user-attachments/assets/cb37b519-b696-434c-9f5d-f9cf0cf4dae1)
+![image](https://github.com/user-attachments/assets/1c2071fb-da9e-4826-86fb-697939cf341c)
+![image](https://github.com/user-attachments/assets/861f77b4-d9db-498c-b830-991dd44aed19)
+![image](https://github.com/user-attachments/assets/7d1383b2-f5e3-460c-9294-04dae6fe7ba1)
+![image](https://github.com/user-attachments/assets/ced8cbb3-3111-42bf-b7c2-8977a9a04137)
+![image](https://github.com/user-attachments/assets/8107fc38-b658-4042-bd82-298a348547af)
+![image](https://github.com/user-attachments/assets/d1866d95-5a7f-4224-9e6b-45173fb71245)
+![image](https://github.com/user-attachments/assets/42d837a6-30ec-4f2b-ae26-7422c12f8959)
+![image](https://github.com/user-attachments/assets/bec9a130-da99-4a46-ace3-7f3f832e85df)
+
+
+
+       
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
